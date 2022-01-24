@@ -1,15 +1,18 @@
 1. What is a javascript function? 
-
+    A block of code that have a assigned variable that can be reused multiple time from basically anywhere.
 
 2. What is a callback?
-
+    Calling a function inside of another function.
 
 3. can callbacks only be used in asynchronous code?
-
+    False
 
 4. Why are javascript functions first-class citizens?
-
+    Function can be treated as value and to pass them as arguments.
 
 5. Explain javascript Closures?
+    The abality to carry variable and pass down its values to the next callback function.
 
 6. explain try/catch blocks
+    Try is a statement to run the code in the block and catch will capture the error in try and will output a proper return
+        If try doesnt work just catch it.
